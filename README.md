@@ -17,4 +17,4 @@ Enter 'r' to reveal, 'f' to flag/unflag: r
 ```
 
 ## License
-This code is licensed under the MIT license. Feel free to modify and distribute it as you please.
+This code is not licensed under the MIT license. Feel free to modify and distribute it as you please.
